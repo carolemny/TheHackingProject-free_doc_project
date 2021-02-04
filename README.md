@@ -1,24 +1,5 @@
-# README
+>> FreeDoc <<
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+L'application Rails permet de prendre rdv avec un ou plusieurs medecins, en fonction de son lieu de vie et de sa spécialité. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+** Un bon moyen de travailler les tables de base de données de relation N/N **
